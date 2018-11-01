@@ -1,4 +1,4 @@
-# video-browser
+# image upload
 
 ## Project setup
 ```
